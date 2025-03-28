@@ -1,2 +1,0 @@
-cls
-menu.bat
